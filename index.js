@@ -9,10 +9,10 @@ const server = http.createServer((request, response) => {
         auth: {
             user: "vn9607420507@gmail.com",
             pass: "dfwcrwxhurevycev"
-
         }
     });
 
+    
     const receiver = {
         from : "vn9607420507@gmail.com",
         to : "nickdambhare42@gmail.com",
