@@ -15,7 +15,7 @@ const server = http.createServer((request, response) => {
     
     const receiver = {
         from : "vn9607420507@gmail.com",
-        to : "nickdambhare42@gmail.com",
+        to : "nickdambhare42@gmail.com,vishalnimbarte03@gmail.com",
         subject : "Node Js Mail Testing!",
         text : "Hello this is a text mail!"
     };
